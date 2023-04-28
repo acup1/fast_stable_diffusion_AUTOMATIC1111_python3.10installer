@@ -1,6 +1,6 @@
 # getting start
 
-1.Open [my notebook](https://colab.research.google.com/drive/1a87gjUb0KLf03ofE\_fCJ56qBL2B-om2c?usp=sharing) on google colab
+1.Open [my notebook](https://colab.research.google.com/github/acup1/fast_stable_diffusion_AUTOMATIC1111_python3.10installer/blob/main/fast_stable_diffusion_AUTOMATIC1111_python3_10installer_by_Acup.ipynb) on google colab
 
 2.Rtart this script to install python3.10(optional)
 
